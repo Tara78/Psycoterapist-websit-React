@@ -41,7 +41,6 @@ export const Label = styled.label`
     font-family: "Inconsolata";
     font-size: 16px;
     width: 20px;
-
   }
   @media screen and (max-width: 600px) {
     
