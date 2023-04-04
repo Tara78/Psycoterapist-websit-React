@@ -13,7 +13,7 @@ import { Provider } from "react-redux";
 import user from "./reducers/user";
 import booking from "./reducers/booking";
 import Navbar from "./components/Navbar/Navbar";
-/*  import NewNavbar from "./components/Navbar/NewNavbar"  */
+/* import Page404 from "./components/pages/Page404"; */
 
 const reducer = combineReducers({
   user: user.reducer,
@@ -35,6 +35,8 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/tarif" element={<Tarif />} />
           <Route path="/why" element={<Why />} />
+  {/*         <Route path="/*" element={<Page404 />}/> */}
+
         </Routes>
       </Router>
     </Provider>
