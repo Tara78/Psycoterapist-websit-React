@@ -1,7 +1,13 @@
-npm sendgrid (Email from)
-router , one conact router. controler 
+- npm sendgrid (Email from)
 
-change the font of calendly .
+- router , one conact router. controler 
+
+- change the font of calendly .
+
+- check i18 documenntation regards to placeholder translation.  remove the inside black border. 
+
+- check CSS regards to navigate to top page. Wht page ponting to the middle Not to top.
+
 <!-- change the background img Home, -->
 
 <!-- contact page , divied address to two lines. 
@@ -9,9 +15,5 @@ button , send in contact page , little smaller -->
 
  <!-- and make a link on tarif on conatct page.  -->
 
-- check i18 documenntation regards to placeholder translation.  remove the inside black border. 
-
-- check CSSS regards to navigate to top page. Wht page ponting to the middle Not to top.
-
-- font family , font size , nav , all website
+<!-- - font family , font size , nav , all website -->
 <!-- tarif, fix title and subtitle -->
