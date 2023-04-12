@@ -1,24 +1,23 @@
 import styled from "styled-components";
 
 export const Title = styled.h1`
-   letter-spacing:2px;
+   letter-spacing:.5px;
    font-family:font-family: 'PT Sans', sans-serif;
    font-size:2rem; 
 `;
 
 export const Title2How= styled.h1`
-letter-spacing:1px;
+letter-spacing:.2px;
 `
 
-export const SectionSubTitle = styled.p`
-  line-height: 39px;
+export const SectionSubTitle = styled.div`
   color: #343131;
 `;
 
 export const SubTitle = styled.p`
   color: #343131;
-  line-height: 29px;
-  letter-spacing:.5px;
+  line-height: 35px;
+  letter-spacing:0.5px;
 `;
 
 export const Point = styled.p`
@@ -45,7 +44,7 @@ export const TitleHow = styled.h1`
 
 export const SubTitleHow = styled.p`
    color: #343131;
-  line-height: 29px;
+  line-height: 32px;
   font-size: 20px;
   letter-spacing:.5px;
 `;

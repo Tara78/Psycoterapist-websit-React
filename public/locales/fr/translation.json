@@ -20,9 +20,9 @@
     "TitleBooking":"Infos pratiques et prise de rdv",
 
     "SubTilteBooking":"Si vous avez des questions préalables, n'hésitez pas à me contacter par téléphone pour larifier vos besoins et vous décider vers cette solution thérapeutique.",
-    "ReadMoreTarif":"Infos pratiques - cliquer",
+    "ReadMoreTarif":"Infos pratiques",
     "Ici":"ici",
-    "ReadMoreBooking":"Prise de RDV - cliquer"
+    "ReadMoreBooking":"Prise de RDV"
      } 
      ,
   "about":{
@@ -83,6 +83,7 @@
 "how":{
   "TitleHow":" Comment se déroule une séance de Gestalt-thérapie?",
   "SubTitleHow":"La Gestalt-thérapie se pratique donc de manière individuelle ou en             groupe, c'est le thérapeute qui décide de la forme de la thérapie la mieux adaptée à la situation du patient. Elle fait partie des thérapies à moyen ou long terme puisqu'en général elle nécessite une séance tous les 15 jours sur une durée généralement comprise entre 6 et 12 mois. Après quelques mois, la personne qui consulte commence à  ressentir un mieux dans ses relations et dans sa vie quotidienne et il est alors important qu’elle s’assure que ses acquis sont consolidés de façon pérenne.",
+  "Title2How":"Une séance de cette thérapie s'organise autour de 3 axes",
 
   "h3":"Une séance de cette thérapie s'organise sur 3 axes:",
  "Paragrah1":"la personne évoque sa situation, son problème, le thérapeute l'aide à rester attentive à ses gestes et à ses émotions",

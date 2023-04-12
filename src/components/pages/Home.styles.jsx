@@ -68,16 +68,19 @@ export const SectionItem = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  padding: 2.5rem;
-  line-height: 32px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-top:1rem;
+  line-height: 30px;
   text-align: start;
-  box-shadow: 0 9px 4px #92959a;
+  box-shadow: 0 11px 8px #92959a;
+  margin-top:10px;
 
   @media only screen and (max-width: 600px) {
     width: 100%;
-    height: 100%;
+    height: auto;
     font-size:18px;
-    padding-top:0px;
     margin-bottom:1rem;
     }
 
@@ -112,8 +115,7 @@ export const SubTilteHome = styled.p`
 
 export const SubTilteWhy = styled.p`
   color: #242426;
-  height: 150px;
- 
+  height: 150px; 
  `;
 
 export const SubTilteBooking = styled.p`
@@ -130,7 +132,6 @@ export const Ici = styled.span`
 
 export const InfoTextHome = styled.p`
   cursor: pointer;
-
 `;
 
 export const ReadMore = styled.div`
@@ -160,6 +161,5 @@ export const ReadMoreBooking = styled.div`
   display: flex;
   padding-top: 1rem;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-
 `;
 
